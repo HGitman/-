@@ -1,6 +1,4 @@
-﻿  //Задача 27. Выдаёт сумму цифр в числе 
-
-Console.Write("Add number N: ");
+﻿Console.Write("Add number N: ");
 int numN = Convert.ToInt32(Console.ReadLine());
 int SumNum(int numN)
 {
