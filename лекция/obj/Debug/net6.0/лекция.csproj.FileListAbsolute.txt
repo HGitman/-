@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.AssemblyInfo.cs
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\bin\Debug\net6.0\лекция.exe
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\bin\Debug\net6.0\лекция.deps.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\bin\Debug\net6.0\лекция.runtimeconfig.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\bin\Debug\net6.0\лекция.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\bin\Debug\net6.0\лекция.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\refint\лекция.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\лекция.genruntimeconfig.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\лекция\obj\Debug\net6.0\ref\лекция.dll
