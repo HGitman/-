@@ -3,7 +3,8 @@ Console.Write($"Введи число М(количество чисел): ");
 int M = Convert.ToInt32(Console.ReadLine());
 int[] massNumbers = new int[M];
 
-void InputNumbers(int m){
+void InputNumbers(int m)
+{
 for (int i = 0; i < m; i++)
   {
     Console.Write($"Введи {i+1} число: ");
