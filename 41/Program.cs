@@ -1,27 +1,60 @@
 ﻿//Задача 41. Cколько чисел больше 0 ввёл пользователь 
-Console.Write($"Введи число М(количество чисел): ");
-int M = Convert.ToInt32(Console.ReadLine());
-int[] massNumbers = new int[M];
-
-void InputNumbers(int m)
+Console.Write("Введите числа через запятую: ");
+int[] numbers = Linenum(Console.ReadLine());
+PrintArray(numbers);
+int sum = 0;
+for (int i = 0; i < numbers.Length; i++)
 {
-for (int i = 0; i < m; i++)
+    if (numbers[i] > 0)
+    {
+        sum++;
+    }
+}
+Console.WriteLine();
+Console.WriteLine($"количество значений больше 0 = {sum}");
+
+
+int[] Linenum(string input)
+{
+  int count = 1;
+  for (int i = 0; i < input.Length; i++)
   {
-    Console.Write($"Введи {i+1} число: ");
-    massNumbers[i] = Convert.ToInt32(Console.ReadLine());
+    if (input[i] == ',')
+    {
+      count++;
+    }
   }
+  int[] numbers = new int [count];
+  int index = 0;
+  for (int i = 0; i < input.Length; i++)
+  {
+    string temp = "";
+    while (input [i] != ',')
+    {
+      if(i != input.Length - 1)
+      {
+        temp += input [i].ToString();
+        i++;
+      }
+      else
+      {
+        temp += input [i].ToString();
+        break;
+      }
+    }
+    numbers[index] = Convert.ToInt32(temp);
+    index++;
+  }
+  return numbers;
 }
 
 
-int Comparison(int[] massNumbers)
+void PrintArray(int[] array)
 {
-  int count = 0;
-  for (int i = 0; i < massNumbers.Length; i++)
-  {
-    if(massNumbers[i] > 0 ) count += 1; 
-  }
-  return count;
+    Console.Write("[ ");
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(array[i] + " ");
+    }
+    Console.Write("]");
 }
-
-InputNumbers(M);
-Console.WriteLine($"Введено чисел больше 0: {Comparison(massNumbers)} ");
