@@ -49,7 +49,7 @@ for (int i = 0; i < m; i++)
 // 5 9 2 3
 // 8 4 2 4                17 -> такого числа в массиве нет
 
-Console.Write("\nMассив возьмем из предыдущей задачи (№ 47).\n");
+Console.Write("\nMассив из задачи (№ 47).\n");
 Console.Write("Введите координаты позиции элемента, разделенных запятой: ");
 
 string? positionElement = Console.ReadLine();
@@ -112,8 +112,8 @@ string RemovingSpaces (string input)
 // Задача 52: Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 // Например, задан массив:  
 // 1 4 7 2
-// 5 9 2 3
-// 8 4 2 4                  Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
+// 5 9 2 3                Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
+// 8 4 2 4                  
 
 
 int[,] arrayWhole = new int[m, n];
@@ -130,7 +130,7 @@ for (int i = 0; i < n; i++)
     arithmeticMean += arrayWhole[j, i];
   }
   arithmeticMean = Math.Round(arithmeticMean / m, 1);
-  Console.WriteLine($"столбца № {i+1} {arithmeticMean}");
+  Console.WriteLine($"столбец № {i+1} {arithmeticMean}");
 }
 
 int[,] TransformationArrayWhole (double[,] array)
