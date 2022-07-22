@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.AssemblyInfo.cs
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\bin\Debug\net6.0\для проверки.exe
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\bin\Debug\net6.0\для проверки.deps.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\bin\Debug\net6.0\для проверки.runtimeconfig.json
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\bin\Debug\net6.0\для проверки.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\bin\Debug\net6.0\для проверки.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\refint\для проверки.dll
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.pdb
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\для проверки.genruntimeconfig.cache
+C:\Users\ASUS TUF\OneDrive\Рабочий стол\Csharp\дз4\для проверки\obj\Debug\net6.0\ref\для проверки.dll
